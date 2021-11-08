@@ -2,8 +2,8 @@
 
 Translation example in react-native
 
-<img src="screenshots/screenshot1.jpeg" alt="screenshot1" width="380px" height="600px" />
-<img src="screenshots/screenshot2.jpeg" alt="screenshot2" width="380px" height="600px" />
+<img src="screenshots/screenshot1.jpeg" alt="screenshot1" width="350px" height="600px" />
+<img src="screenshots/screenshot2.jpeg" alt="screenshot2" width="350px" height="600px" />
 
 ## Requirements
 
